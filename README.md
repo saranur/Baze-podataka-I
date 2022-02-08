@@ -4,8 +4,8 @@
 **_Samoevaluacijski kvizovi_**
 </br>
  _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1">Classmarker</a></br>
- _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
- _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
+ _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
+ _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
  <hr>
   
   **_Ispitni zadaci_**
