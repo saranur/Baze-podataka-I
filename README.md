@@ -11,7 +11,7 @@
   **_Ispitni zadaci_**
   </br>
   <a href="">Ispitni 06.09.2021</a> ~  <a href="">Postavka</a> ~  <a href="">Rješenje</a></br>
-  <a href="">Ispitni 01.02.2021</a> ~  <a href="">Postavka</a> ~  <a href="">Rješenje</a></br> 
+  <a href="">Ispitni 01.02.2021</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2001.02.2021_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br> 
   <a href="">Ispitni 07.09.2020</a> ~  <a href="">Postavka</a> ~  <a href="">Rješenje</a></br>
   <a href="">Ispitni 14.07.2020</a> ~  <a href="">Postavka</a> ~  <a href="">Rješenje</a></br>
   <a href="">Ispitni 21.02.2020</a> ~  <a href="">Postavka</a> ~  <a href="">Rješenje</a></br>
