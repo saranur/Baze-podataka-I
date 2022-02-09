@@ -1,6 +1,5 @@
 ## Normalizacija i normalne forme
 
-<hr>
 
 Normalizacija - proces koji koristimo da optimiziramo i organizujemo bazu podataka i podatke koji se nalaze u njoj. Želimo da: 
 
