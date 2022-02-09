@@ -5,7 +5,7 @@ Repozitorij za ispitne primejere i materijale za Baze podataka I
 <h4>Samoevaluacijski kvizovi</h4>
 <hr>
 
- _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1" target="_blank" rel="noopener noreferrer">Classmarker</a></br>
+ _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1">Classmarker</a></br>
  _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
  _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
  <hr>
