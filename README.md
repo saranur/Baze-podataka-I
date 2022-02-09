@@ -12,7 +12,7 @@ Repozitorij za ispitne primejere i materijale za Baze podataka I
   
   <h4>Ispitni zadaci</h4>
   <hr>
-  Ispitni 06.09.2021 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2006.09.2021_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br>
+  Ispitni 06.09.2021 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2006.09.2021_Postavka.zip">Postavka</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Rjesenje/Ispitni%2006.09.2021_Rje%C5%A1enje.zip">Rješenje</a></br>
   Ispitni 01.02.2021 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2001.02.2021_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br> 
   Ispitni 07.09.2020 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2007.09.2020_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br>
   Ispitni 14.07.2020 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2014.07.2020_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br>
