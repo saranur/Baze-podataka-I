@@ -2,13 +2,29 @@
 Repozitorij za ispitne primejere i materijale iz Baze podataka I </br>
 _<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Normalizacija%20i%20normalne%20forme.md">Normalizacija i normalne forme</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Prevo%C4%91enje%20ER%20dijagrama%20u%20relacioni.md">Prevođenje ER modela u relacioni</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Prevo%C4%91enje%20veze%20kardinaliteta.md">Prevođenje veze kardinaliteta</a> (samo kardinaliteti, s predavanja)_
 <hr>
-
-<h4>Samoevaluacijski kvizovi</h4>
+<details>
+ <summary>Samoevaluacijski kvizovi</summary>
 <hr>
 
- _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1">Classmarker</a></br>
+ _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1">Classmarker</a><br>
  _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
  _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
+ 
+ </details>
+ <hr>
+ 
+ <details>
+ <summary>Vježbe</summary>
+ <br>
+ Vježba 6: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 7: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 8: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 9: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 10: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 11: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+
+ 
+ </details> 
  <hr>
   
   <h4>Ispitni zadaci</h4>
