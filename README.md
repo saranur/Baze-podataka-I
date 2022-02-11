@@ -7,8 +7,8 @@ _<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Normalizacija%20i
 <hr>
 
  _Prvi samoevaluacijski kviz:_ <a href="https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1">Classmarker</a><br>
- _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
- _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="">Rješenje</a></br>
+ _Drugi samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_drugi_online_test.pdf">Postavka</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Rje%C5%A1enja/BPI_drugi_online_test.rar">Rješenje</a></br>
+ _Treći samoevaluacijski kviz:_ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Postavke/BPI_treci_online_test.pdf">Postavka</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Testovi/Rje%C5%A1enja/BPI_drugi_online_test.rar">Rješenje</a></br>
  
  </details>
  <hr>
