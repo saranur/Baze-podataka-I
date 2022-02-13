@@ -16,12 +16,12 @@ _<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Normalizacija%20i
  <details>
  <summary>Vježbe</summary>
  <br>
- Vježba 6: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
- Vježba 7: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vje%C5%BEbe/Vje%C5%BEba%207/Postavka.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%207/Rje%C5%A1enje.zip"> Rješenje</a><br>
- Vježba 8: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
- Vježba 9: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
- Vježba 10: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
- Vježba 11: <a href="">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 6: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%206/Postavka.zip">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 7: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%207/Postavka.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%207/Rje%C5%A1enje.zip"> Rješenje</a><br>
+ Vježba 8: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%208/Postavka.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%208/Rje%C5%A1enje.zip"> Rješenje</a><br>
+ Vježba 9: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%209/Postavka.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%209/Rje%C5%A1enje.zip"> Rješenje</a><br>
+ Vježba 10: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%2010/Postavka.zip">Postavka</a>  <a href=""> Rješenje</a><br>
+ Vježba 11: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%2011/Postavka.zip">Postavka</a>  <a href=""> Rješenje</a><br>
 
  
  </details> 
