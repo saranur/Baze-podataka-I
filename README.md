@@ -15,7 +15,7 @@ _<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Normalizacija%20i
  
  <details>
  <summary>Vježbe</summary>
- <br>
+ <hr>
  Vježba 6: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%206/Postavka_V6.zip">Postavka</a>  <a href=""> Rješenje</a><br>
  Vježba 7: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%207/Postavka_V7.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%207/Rje%C5%A1enje_V7.zip"> Rješenje</a><br>
  Vježba 8: <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%208/Postavka_V8.zip">Postavka</a>  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Vjezbe/Vjezba%208/Rje%C5%A1enje_V8.zip"> Rješenje</a><br>
