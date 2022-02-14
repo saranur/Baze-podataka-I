@@ -10,7 +10,7 @@
 
 **(1,1):(0,M) i (1,1):(1,M)** ~  poveznik ne postaje nova tabela, **PK** iz max **N** se prostire **u** tabelu gdje je max **1**,  **dvije tabele, prostiranje **
 
-**(0,1):(0,M) i (0,1):(1,M)** ~ poveznik postaje nova tabela, PK je kompoznitni ključ **tri tabele, kompozitni PK**
+**(0,1):(0,M)** ~ poveznik postaje nova tabela, PK je kompoznitni ključ **tri tabele, kompozitni PK**
 
 **(0,M):(0,M), (1,M):(0,M) i (1,M):(1,M)** ~ poveznik postaje nova tabela, PK je kompozitni ključ **tri tabele, kompozitni PK**
 
