@@ -1,6 +1,6 @@
 # Baze-podataka-I
 Repozitorij za ispitne primejere i materijale iz Baze podataka I </br>
-_<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Normalizacija%20i%20normalne%20forme.md">Normalizacija i normalne forme</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Prevo%C4%91enje%20ER%20dijagrama%20u%20relacioni.md">Prevođenje ER modela u relacioni</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Prevo%C4%91enje%20veze%20kardinaliteta.md">Prevođenje veze kardinaliteta</a> (samo kardinaliteti, s predavanja)_
+_<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Useful%20Info/Normalizacija%20i%20normalne%20forme.md">Normalizacija i normalne forme</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Useful%20Info/Prevo%C4%91enje%20ER%20dijagrama%20u%20relacioni.md">Prevođenje ER modela u relacioni</a> ~ <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Useful%20Info/Prevo%C4%91enje%20veze%20kardinaliteta.md">Prevođenje veze kardinaliteta</a> (samo kardinaliteti, s predavanja)_
 <hr>
 <details>
  <summary>Samoevaluacijski kvizovi</summary>
