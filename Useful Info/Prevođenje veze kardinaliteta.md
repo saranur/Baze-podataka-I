@@ -1,10 +1,28 @@
 # *Prevođenje veze kardinaliteta*
 
+**(1,1): (1,1)** ~ sve postaje jedna tabela, PK mi biramo **jedna tabela, jedan PK po izboru**
+
+**(0,1): (1,1)** ~ samo tabele (za entitete), **prostiranje** ključa **iz (0,1)** u (1,1) **dvije tabele, prostiranje**
+
+**(0,1): (0,1)** ~ poveznik postaje nova tabela, **PK** mi **biramo**, sta je relevantnije **tri tabele, jedan PK-izborno**
+
+**(0,1): (1, N)** ~ poveznik postaje nova tabela, **PK** se uzima sa strane gdje je kardinalitatet **max 1** **tri tabele, PK iz 1**
+
+**(1,1):(0,M) i (1,1):(1,M)** ~  poveznik ne postaje nova tabela, **PK** iz max **N** se prostire **u** tabelu gdje je max **1**,  **dvije tabele, prostiranje **
+
+**(0,1):(0,M) i (0,1):(1,M)** ~ poveznik postaje nova tabela, PK je kompoznitni ključ **tri tabele, kompozitni PK**
+
+**(0,M):(0,M), (1,M):(0,M) i (1,M):(1,M)** ~ poveznik postaje nova tabela, PK je kompozitni ključ **tri tabele, kompozitni PK**
+
+
+
+<hr>
+
 ## *<u>**2.1. Veze kardinaliteta 1:1**</u>*
 
-Veze kardinaliteta 1:1 po pravilu nemaju obilježja. Sva obilježja koja bi eventualno mogla  biti pripisana samoj vezi, zapravo su obilježja jednog od objekata koji učestvuju u toj vezi. Dakle, mogu biti pripisana tom objektu i time postati obilježja šeme relacije kojom  se taj tip objekta predstavlja. 
+Veze kardinaliteta 1:1 po pravilu nemaju obilježja. Sva obilježja ksoja bi eventualno mogla  biti pripisana samoj vezi, zapravo su obilježja jednog od objekata koji učestvuju u toj vezi. Dakle, mogu biti pripisana tom objektu i time postati obilježja šeme relacije kojom  se taj tip objekta predstavlja. 
 
-<u>***2.1.1. Veza kardinaliteta (1,1):(1,1)***</u>**</u> i oba objekta koji u njoj učestvuju prevodimo u  jednu šemu relacije, čija su obilježja sva obilježja jednog i drugog objekta.  Kandidat za ključ u ovoj šemi relacije su identifikatori jednog i drugog objekta koji  su u vezi.
+***2.1.1. Veza kardinaliteta (1,1):(1,1)*** i oba objekta koji u njoj učestvuju prevodimo u  jednu šemu relacije, čija su obilježja sva obilježja jednog i drugog objekta.  Kandidat za ključ u ovoj šemi relacije su identifikatori jednog i drugog objekta koji  su u vezi.
 
 ***2.1.2. Veza kardinaliteta (0,1):(1,1)*** i objekte u vezi prevodimo u dvije šeme relacije.  Svakom entitetu u vezi odgovara po jedna šema relacije (prema već definiranom  pravilu 1.1), s tim što identifikator jednog od objekta koji su u vezi postaje  obilježje i druge šeme relacije u ulozi eksternog ključa. Dakle, veza se predstavlja **spoljnim (eksternim) ključem.** Spoljni ključ je identifikator entiteta sa čije  strane kardinalitet (1,1) u relacionoj šemi koja odgovara entitetu sa čije strane  kardinalitet je (0,1).
 
