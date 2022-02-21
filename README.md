@@ -36,7 +36,7 @@ _<a href="https://github.com/saranur/Baze-podataka-I/blob/main/Useful%20Info/Nor
   Ispitni 14.07.2020 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2014.07.2020_Postavka.zip">Postavka</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Rjesenja/Ispitni%2014.07.2020_Rje%C5%A1enje.zip">Rješenje</a></br>
   Ispitni 21.02.2020 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2021.02.2020_Postavka.zip">Postavka</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Rjesenja/Ispitni%2021.02.2020_Rje%C5%A1enje.zip">Rješenje</a></br>
   Ispitni 29.01.2020 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2029.01.2020_Postavka.zip">Postavka</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Rjesenja/Ispitni%2029.01.2020_Rje%C5%A1enje.zip">Rješenje</a></br>
-  Ispitni 05.07.2019 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2005.07.2019_Postavka.zip">Postavka</a> ~  <a href="">Rješenje</a></br>
+  Ispitni 05.07.2019 ~  <a href="https://github.com/saranur/Baze-podataka-I/raw/main/Ispiti/Postavke/Ispitni%2005.07.2019_Postavka.zip">Postavka</a> ~  <a href="https://github.com/saranur/Baze-podataka-I/blob/main/Ispiti/Rjesenja/Ispitni%2005.07.2019_Rjesenje.zip?raw=true">Rješenje</a></br>
 
 
 
