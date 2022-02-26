@@ -33,11 +33,12 @@ Postoje sljedeće **dvije varijante vertikalne normalizacije:**
 U kontekstu vertikalne normalizacije definirano je **šest normalnih formi (NF)** relacionih šema: 1NF, 2NF, 3NF, 4NF, 5NF, BCNF (Boyce-Codd-ova NF)
 
 <hr>
+
 **1. Normalna Forma - 1NF**
 
 <hr>
 
-**Relacija R ** je u prvoj normalnoj formi 1NF **akko** su vrijednosti svih njenih atributa **atomske/ atomarne**. Dakle, u jednom redu- za jedan atribut može biti samo jedna informacija. 
+**Relacija R** je u prvoj normalnoj formi 1NF **akko** su vrijednosti svih njenih atributa **atomske/ atomarne**. Dakle, u jednom redu- za jedan atribut može biti samo jedna informacija. 
 
 <u>npr.</u>
 
@@ -172,7 +173,7 @@ Kreiramo dvije relacije, R2(D,B) -> iz funkcionalne zavisnosti, a R1 - prepisuje
 
 <hr>
 
-**Relacija R ** je u **4NF akko** je u **3NF** i **nema višeznačne zavisnosti među atributima**. 
+**Relacija R** je u **4NF akko** je u **3NF** i **nema višeznačne zavisnosti među atributima**. 
 
 <u>**Višeznačna zavisnost:**</u>
 
